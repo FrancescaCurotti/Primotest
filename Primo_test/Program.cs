@@ -11,7 +11,9 @@ namespace Primo_test
         static void Main(string[] args)
         {
             Console.WriteLine("Ciao");
+            Console.WriteLine("Che bella giornata!!!!! hihhihihih");
             Console.ReadLine();
+
         }
     }
 }
